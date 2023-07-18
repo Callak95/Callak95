@@ -3,7 +3,7 @@
 Olá! Eu sou o Lucas Valente. Aqui estão algumas informações sobre mim:
 
 ## Sobre mim 💫
-Sou um desenvolvedor apaixonado por tecnologia e estou sempre buscando aprender e explorar novas ferramentas. Minha linguagem de programação principal é Python, na qual tenho experiência em desenvolvimento de aplicações backend e automação de tarefas. Além disso, sou fluente em JavaScript, trabalhando tanto no frontend quanto em aplicações Node.js.
+Sou um desenvolvedor apaixonado por tecnologia.
 
 Tenho experiência com diversos frameworks e tecnologias, incluindo:
 
