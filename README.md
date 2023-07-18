@@ -23,7 +23,7 @@ Tenho experiência com diversos frameworks e tecnologias, incluindo:
 ![](https://komarev.com/ghpvc/?username=Callak95&color=blueviolet)
 
 ### Como me encontrar 🌐
-- LinkedIn: [Perfil no LinkedIn](www.linkedin.com/in/seu-linkedin-aqui)
+- LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/lucas-valente-174365192/)
 
 ## Tecnologias e Ferramentas 🛠️
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
