@@ -1,6 +1,6 @@
 # Lucas Valente
 
-Olá! Eu sou o Lucas Valente. Aqui estão algumas informações sobre mim:
+Olá! Aqui estão algumas informações sobre mim:
 
 ## Sobre mim 💫
 Sou um desenvolvedor apaixonado por tecnologia.
