@@ -18,6 +18,13 @@ Tenho experiência com diversos frameworks e tecnologias, incluindo:
 - Spring Framework: Utilizado para o desenvolvimento de aplicações empresariais robustas e escaláveis.
   ![Spring Framework](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+- Java com Spring Boot e Spring Framework: Desenvolvimento de aplicações corporativas e web.
+  ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+- Kotlin: Desenvolvimento de aplicações modernas e eficientes.
+  ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
 - AWS (Amazon Web Services): Implementação de serviços em nuvem altamente disponíveis e escaláveis, trabalhando com AWS Lambda e Amazon S3.
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -48,27 +55,6 @@ Tenho experiência com diversos frameworks e tecnologias, incluindo:
 
 - Git: Controle de versão colaborativo e essencial no meu fluxo de trabalho.
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## Experiência Profissional e Tecnologias 🚀
-Aqui está uma visão geral das minhas principais habilidades e experiência:
-
-- .NET e ASP.NET Core
-  ![.NET](https://img.shields.io/badge/.NET-%230092C0.svg?style=for-the-badge&logo=.net&logoColor=white)
-  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
-
-- ReactJS
-  ![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-- Node.js
-  ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
-- HTML e CSS
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-- SQL Server/Oracle
-  ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=Callak95&color=blueviolet)
 
