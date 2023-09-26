@@ -74,13 +74,3 @@ Aqui está uma visão geral das minhas principais habilidades e experiência:
 
 ### Como me encontrar 🌐
 - LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/lucas-valente-174365192/)
-
-## Troféus do GitHub 🏆
-![](https://github-profile-trophy.vercel.app/?username=Callak95&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-## Estatísticas do GitHub 📊
-![](https://github-readme-stats.vercel.app/api?username=Callak95&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Callak95&theme=react&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Callak95&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
