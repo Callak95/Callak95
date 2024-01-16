@@ -7,10 +7,6 @@ Sou um desenvolvedor apaixonado por tecnologia.
 
 Tenho experiência com diversos frameworks e tecnologias, incluindo:
 
-- .NET e ASP.NET Core
-  ![.NET](https://img.shields.io/badge/.NET-%230092C0.svg?style=for-the-badge&logo=.net&logoColor=white)
-  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
-
 - ReactJS
   ![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
